@@ -1,0 +1,12 @@
+C:\Users\Kaynewihza\AppData\Local\Temporary Projects\EQOA NPC Maker\bin\Debug\EQOA NPC Maker.exe
+C:\Users\Kaynewihza\AppData\Local\Temporary Projects\EQOA NPC Maker\bin\Debug\EQOA NPC Maker.pdb
+C:\Users\Kaynewihza\AppData\Local\Temporary Projects\EQOA NPC Maker\bin\Debug\EQOA NPC Maker.xml
+C:\Users\Kaynewihza\AppData\Local\Temporary Projects\EQOA NPC Maker\obj\x86\Debug\EQOA_NPC_Maker.Form1.resources
+C:\Users\Kaynewihza\AppData\Local\Temporary Projects\EQOA NPC Maker\obj\x86\Debug\EQOA_NPC_Maker.Resources.resources
+C:\Users\Kaynewihza\AppData\Local\Temporary Projects\EQOA NPC Maker\obj\x86\Debug\EQOA NPC Maker.vbproj.GenerateResource.Cache
+C:\Users\Kaynewihza\AppData\Local\Temporary Projects\EQOA NPC Maker\obj\x86\Debug\EQOA NPC Maker.exe
+C:\Users\Kaynewihza\AppData\Local\Temporary Projects\EQOA NPC Maker\obj\x86\Debug\EQOA NPC Maker.xml
+C:\Users\Kaynewihza\AppData\Local\Temporary Projects\EQOA NPC Maker\obj\x86\Debug\EQOA NPC Maker.pdb
+C:\Users\Kaynewihza\documents\visual studio 2010\Projects\EQOA NPC Maker\EQOA NPC Maker\obj\x86\Debug\EQOA NPC Maker.exe
+C:\Users\Kaynewihza\documents\visual studio 2010\Projects\EQOA NPC Maker\EQOA NPC Maker\obj\x86\Debug\EQOA NPC Maker.xml
+C:\Users\Kaynewihza\documents\visual studio 2010\Projects\EQOA NPC Maker\EQOA NPC Maker\obj\x86\Debug\EQOA NPC Maker.pdb
